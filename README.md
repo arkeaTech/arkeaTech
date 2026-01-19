@@ -1,4 +1,4 @@
-# Arkea Tech 🚀
+# Arkea 🚀
 
 ### A base inteligente para a automação e o futuro dos processos.
 
@@ -9,8 +9,8 @@
 
 ---
 
-## 🏛️ Sobre a Arkea Tech
-Fundada por **Abe, Couto e Monferrari**, a Arkea Tech nasceu para ser o arquétipo (a base sólida) da transformação digital. Especializamo-nos em criar soluções que removem o atrito operacional através de:
+## 🏛️ Sobre a Arkea 
+Fundada por **Abe, Couto e Monferrari**, a Arkea nasceu para ser o arquétipo (a base sólida) da transformação digital. Especializamo-nos em criar soluções que removem o atrito operacional através de:
 
 * **Automação Inteligente:** Fluxos de trabalho que aprendem e se adaptam.
 * **Implementação de IA:** Integração de modelos de linguagem e visão computacional em processos reais.
@@ -20,7 +20,7 @@ Fundada por **Abe, Couto e Monferrari**, a Arkea Tech nasceu para ser o arquéti
 
 ## 👋 Contato
 Estamos sempre abertos a colaborações e novos desafios.
-- **Email:** contato@arkeatech.com.br
+- **Email:** arkeasolucoesinteligentes@gmail.com
 - **LinkedIn:** [Arkea Tech](link-aqui)
 
 ---
